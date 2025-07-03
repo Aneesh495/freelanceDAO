@@ -14,9 +14,9 @@ module.exports = {
         balance: "1000000000000000000000", // 1000 ETH
       },
     },
-    sepolia: {
-      url: API_URL,
-      accounts: [`0x${PRIVATE_KEY}`],
-    },
+ //     sepolia: {
+ //     url: API_URL,
+ //     accounts: [`0x${PRIVATE_KEY}`],
+ //   }, 
   },
 };
